@@ -11,6 +11,7 @@ All graphics in this repository are licensed under [CC BY 4.0](https://creativec
 ### Attribution
 
 **[Graphic title]** is the filename of the graphic without the extension.
+
 **[Graphic URL]** is the URL of the graphic through which it was dowloaded.
 
 #### Short
