@@ -24,6 +24,6 @@ As plain text:
 
 #### Full
 
-To be used, for example, in the footnote:
+To be used, for example, in the footnote or credits section:
 
 [Image Title] by Prasanna Venkatesh T S, retrieved from [Image URL]. Used under Creative Commons Attribution 4.0 International license (https://creativecommons.org/licenses/by/4.0/).
